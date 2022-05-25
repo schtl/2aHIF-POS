@@ -8,10 +8,6 @@ This is the selection of descriptions
  * Sebastian 
  * ...
 
-## Tasks
-Pos Repos AHIF20 
-
-
 # Description
 This is the section of descriptions.
 
